@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 #body-nav {
 	padding: 2%;
@@ -15,8 +15,9 @@ body {
 
 #logo {
 	float: left;
-	width: 100px;
-	height: 100px;
+	width: 7%;
+	height: 7%;
+	margin-top: -1.2%;
 }
 
 nav a {
@@ -24,5 +25,42 @@ nav a {
 	text-decoration: none;
 	text-transform: uppercase;
 	margin: 4% ;
-	font-size: 375%;
+	font-size: 300%;
   }
+#font11 {
+	margin-top: 10%;
+	font-size: 40px;
+	margin-left: 18%;
+    font-family: 'Muli', sans-serif;
+}
+
+#font12 {
+	margin-top: 5%;
+	font-size: 40px;
+	margin-left: 17%;
+    font-family: 'Muli', sans-serif;
+}
+
+#font21 {
+	margin-top: 5%;
+	font-size: 40px;
+	margin-left: 20%;
+    font-family: 'Muli', sans-serif;
+}
+
+#font22 {
+	margin-top: 5%;
+	font-size: 40px;
+	margin-left: 20%;
+    font-family: 'Muli', sans-serif;
+}
+
+#calismalar {
+	margin-top: 10%;
+	margin-left: 35%;
+}
+.aralik {
+	height: 15%;
+	width: 15%;
+	margin-left: 8%
+}
