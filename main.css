@@ -3,3 +3,10 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.urunler {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
